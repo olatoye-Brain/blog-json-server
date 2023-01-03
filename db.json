@@ -1,0 +1,25 @@
+  {
+    "posts": [
+    {
+      "id": 1665687692825,
+      "userId": "1234",
+      "title": "Usage with Next.js",
+      "description": "To use the Link with Next.js, all you need to do is to wrap Link with Next.js Link component and pass the passHref prop. passHref Forces Next.js Link to send the href property to its child.",
+      "starPost": true
+    },
+    {
+      "id": 1665691352805,
+      "userId": "1234",
+      "title": "Usage with React Router Dom",
+      "description": "To use the Link with a routing library like Reach Router or React Router, all you need to do is pass the as prop. It'll replace the rendered a tag with Reach's Link.",
+      "starPost": true
+    },
+    {
+      "id": 1665691468972,
+      "userId": "1234",
+      "title": "Europa League Rounds",
+      "description": "Manchester United is a disgrace couldnt beat omoni in the first half without erikson.",
+      "starPost": true
+    }
+  ]
+}
